@@ -1,0 +1,15 @@
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\bin\Debug\net6.0\PragueParkingEtt.exe
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\bin\Debug\net6.0\PragueParkingEtt.deps.json
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\bin\Debug\net6.0\PragueParkingEtt.runtimeconfig.json
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\bin\Debug\net6.0\PragueParkingEtt.dll
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\bin\Debug\net6.0\PragueParkingEtt.pdb
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\obj\Debug\net6.0\PragueParkingEtt.csproj.AssemblyReference.cache
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\obj\Debug\net6.0\PragueParkingEtt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\obj\Debug\net6.0\PragueParkingEtt.AssemblyInfoInputs.cache
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\obj\Debug\net6.0\PragueParkingEtt.AssemblyInfo.cs
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\obj\Debug\net6.0\PragueParkingEtt.csproj.CoreCompileInputs.cache
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\obj\Debug\net6.0\PragueParkingEtt.dll
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\obj\Debug\net6.0\refint\PragueParkingEtt.dll
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\obj\Debug\net6.0\PragueParkingEtt.pdb
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\obj\Debug\net6.0\PragueParkingEtt.genruntimeconfig.cache
+C:\Users\kimgu\source\repos\PragueParkingEtt\PragueParkingEtt\obj\Debug\net6.0\ref\PragueParkingEtt.dll

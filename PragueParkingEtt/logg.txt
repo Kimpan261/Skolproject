@@ -1,0 +1,42 @@
+Registreringsnummer: SWE 243
+Ankomsttid: 2022-10-25 17:56:26
+Fordonstyp: MC
+Spenderad tid på P-plats: 00:00:37.1823406
+Uthämtningstid: 2022-10-25 17:57:04
+Total kostnad: 0
+This
+is Extra
+Text
+BIIIIS
+is Extra
+Text
+Registreringsnummer: SWE 111
+Ankomsttid: 2022-10-25 18:13:27
+Fordonstyp: BIL
+Spenderad tid på P-plats: 00:00:06.5826842
+Uthämtningstid: 2022-10-25 18:13:33
+Total kostnad: 0
+Registreringsnummer: SWE 111
+Ankomsttid: 2022-10-25 18:18:40
+Fordonstyp: BIL
+Spenderad tid på P-plats: 00:00:05.4902088
+Uthämtningstid: 2022-10-25 18:18:45
+Total kostnad: 0:-
+Registreringsnummer: SWE 111
+Ankomsttid: 2022-10-25 18:30:31
+Fordonstyp: BIL
+Spenderad tid på P-plats: 00:00:04.6721092
+Uthämtningstid: 2022-10-25 18:30:35
+Total kostnad: 0:-
+Registreringsnummer: SWE 111
+Ankomsttid: 2022-10-25 18:32:00
+Fordonstyp: BIL
+Spenderad tid på P-plats: 00:00:06.8998588
+Uthämtningstid: 2022-10-25 18:32:07
+Total kostnad: 0:-
+Registreringsnummer: SWE 111
+Ankomsttid: 2022-10-25 20:39:45
+Fordonstyp: BIL
+Spenderad tid på P-plats: 00:00:05.3591791
+Uthämtningstid: 2022-10-25 20:39:50
+Total kostnad: 0:-
