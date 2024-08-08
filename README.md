@@ -1,2 +1,2 @@
 # Skolproject
-Här finner intressenter mina betyg satta skolprojekt 
+Här finner intressenter mina betygsatta skolprojekt 
